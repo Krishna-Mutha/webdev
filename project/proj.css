@@ -1,0 +1,128 @@
+.headerbg{
+    background-color:#495052;
+    vertical-align:top;
+    color:white;
+    margin-top:-8;
+    margin-left:-8;
+    margin-right:-8;
+    font-family:Segoe UI;
+    vertical-align:middle;
+}
+.headerbg ul li{
+    display:inline-flex;
+}
+.headerbg ul{
+    padding:10;
+    padding-bottom:5;
+}
+.payment-op{
+    padding-left:100;
+    padding-right:40;
+    float:left;
+}
+
+.ts{
+    padding-right:20;
+    padding-left:0;
+    float:left;
+}
+.us{
+    padding-right:10;
+    float:left;
+}
+.it{
+    padding-right:10;
+    float:left;
+}
+.es{
+    padding-right:10;
+    float:left;
+}
+.infobox{
+    padding-left:200;
+    float:left;
+}
+.adr{
+    padding-left:30;
+    padding-right:60;
+    float:left;
+}
+.account{
+    float:left;
+    background-color: #2F3435;
+    margin-top:-10;
+    margin-bottom:-4;
+    vertical-align:top;
+}
+.account li{
+    padding-bottom:2;
+}
+.babykidlogo{
+    margin-left:150;
+    margin-top:50;
+}
+menu{
+    margin-top:-20;
+}
+menu ul{
+    padding:0;
+    font-family:'Segoe UI';
+    color: grey;
+}
+menu ul li{
+    padding-left:50;
+    display:inline;
+}
+menu ul li button{
+    background-color:orange;
+    color:white;
+    border-radius:5px;
+    height:30px;
+    width:90px;
+    border-width:0;
+}
+.banner{
+    object-fit:cover;
+    margin-left:-8;
+}
+.infotable{
+    color:white;
+    font-family:Segoe UI;
+    padding-left:80;
+}
+.downloadinfo{
+    background-color:#69CBDF;
+}
+.dinfobutton{
+    border-radius:5px;
+    background-color:#61BBCE;
+    border-width:0;
+    color:white;
+    height:30px;
+    width:100px;
+}
+.findcourse{
+    margin-top:-260;
+    padding-left:60%;
+    font-family:Segoe UI;
+    float:left;
+}
+form label{
+    font-size:25;
+    color:#d0d3d4;
+}
+form select{
+    border-width:1px;
+    border-radius:5px;
+    padding:5px;
+    color:grey;
+    border-color:#d0d3d4;
+}
+.coursesubmit{
+    background-color:#EB6648;
+    border-width:0;
+    border-radius:5px;
+    color:white;
+    height:30px;
+    width:200px;
+}
