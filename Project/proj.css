@@ -350,4 +350,185 @@ form select{
 a{
     color:inherit;
     text-decoration:none;
+/*Learn from the internet*/
+}
+@media only screen and (max-width: 1366px) {
+    .courses{
+        padding-left:1%;
+        color:#A4A4A4;
+        font-family:Segoe UI;
+        border:none;
+    }
+    .dancecourse{
+        position: absolute;
+        top:1900;
+        left:3%;
+        font-size:30px;
+    }
+    .formimg table{
+        color:white;
+        font-size:30;
+    }
+    .formimg form table{
+        position:relative;
+        left:106%;
+        bottom:296;
+        padding-left:0;
+        background-color:white;
+        height:500px;
+        width:600px;
+    }
+    .formimg form table tr{
+        text-align:center;
+    }
+    .formimg form table tr td input{
+        border-radius:5px;
+        border-width:1;
+    }
+    .formimg form table input{
+        background-color:#f8f9fa;
+        height:30px;
+        width:200px;
+    }
+    .formimg form table textarea{
+        background-color:#f8f9fa;
+        width:525px;
+    }
+    .formimg form table button{
+        color:white;
+        width:500px;
+        height:50px;
+        border-width:0;
+        border-radius:5px;
+        background-color:#ec774b;
+    }
+    .specialmeal{
+        border-radius:15px;
+        margin-left:5%;
+        font-family:Segoe UI;
+        font-size:20;
+        background-color:#edbf47;
+        color:white;
+        text-align:center;
+    }
+    .specialmeal button{
+        height:30px;
+        width:100px;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#0000000D;
+        border-width:0;
+        border-radius:5px;
+    }
+    .specialmeal img{
+        border-top-left-radius:15px;
+        border-top-right-radius:15px;
+    }
+    .johndoe{
+        border-radius:15px;
+        margin-left:35%;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#EC774B;
+        text-align:center;
+    }
+    .schoolparty{
+        margin-top:-17.5%;
+        margin-right:10%;
+        border-radius:15px;
+        text-align:center;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#e16c6c;
+    }
+    .schoolparty button{
+        height:30px;
+        width:100px;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#0000000D;
+        border-width:0;
+        border-radius:5px;
+    }
+    .schoolparty img{
+        border-top-left-radius:15px;
+        border-top-right-radius:15px;
+    }
+    .newevent{
+        text-align:center;
+        border-radius:15px;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#c389ce;
+        margin-left:50%;
+        margin-right:10%;
+        margin-top:1%;
+        font-size:25;
+    }
+    .cooking{
+        background-color:#6fc191;
+        color:white;
+        font-family:Segoe UI;
+        border-radius:15px;
+        margin-left:5%;
+        margin-top:-27%;
+    }
+    .cooking img{
+        border-top-left-radius:15px;
+        border-top-right-radius:15px;
+    }
+    .music{
+        position:relative;
+        left:35%;
+        bottom:570;
+        font-family:Segoe UI;
+        text-align:center;
+        background-color:#E16C6C;
+        color:white;
+        border-radius:15px;
+    }
+    .music img{
+        border-top-left-radius:15px;
+        border-top-right-radius:15px;
+    }
+    .music button{
+        height:30px;
+        width:100px;
+        font-family:Segoe UI;
+        color:white;
+        background-color:#0000000D;
+        border-width:0;
+        border-radius:5px;
+    }
+    .footer{
+        font-family:Segoe UI;
+        background-color:#495052;
+        color:#a3a3a4;
+        text-align:center;
+        margin-left:-1%;
+        margin-bottom:-2%;
+        margin-top:-10%;
+    }
+    .footer h4{
+        color:#f8f9fa;
+        font-size:25;
+    }
+    .footer p{
+        margin-top:-4%;
+    }
+    .footer input{
+        background-color:#404548;
+        border-top-left-radius:5px;
+        border-bottom-left-radius:5px;
+        border-width:0;
+        height:30px;
+    }
+    .footer button{
+        background-color:#ec774b;
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px;
+        border-width:0;
+        color:white;
+        height:30px;
+    }
 }
