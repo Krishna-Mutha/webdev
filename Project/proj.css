@@ -1,0 +1,319 @@
+.headerbg{
+    background-color:#495052;
+    vertical-align:top;
+    color:white;
+    margin-top:-8;
+    margin-left:-8;
+    margin-right:-8;
+    font-family:Segoe UI;
+    vertical-align:middle;
+}
+.headerbg ul li{
+    display:inline-flex;
+}
+.headerbg ul{
+    padding:10;
+    padding-bottom:5;
+}
+.payment-op{
+    padding-left:450;
+    padding-right:40;
+    float:left;
+}
+
+.ts{
+    padding-right:20;
+    padding-left:0;
+    float:left;
+}
+.us{
+    padding-right:10;
+    float:left;
+}
+.it{
+    padding-right:10;
+    float:left;
+}
+.es{
+    padding-right:10;
+    float:left;
+}
+.infobox{
+    padding-left:200;
+    float:left;
+}
+.adr{
+    padding-left:30;
+    padding-right:60;
+    float:left;
+}
+.account{
+    float:left;
+    background-color: #2F3435;
+    margin-top:-10;
+    margin-bottom:-4;
+    vertical-align:top;
+}
+.account li{
+    padding-bottom:2;
+}
+.babykidlogo{
+    margin-left:150;
+    margin-top:50;
+}
+menu{
+    margin-top:-20;
+}
+menu ul{
+    padding:0;
+    font-family:'Segoe UI';
+    color: grey;
+}
+menu ul li{
+    padding-left:50;
+    display:inline;
+}
+menu ul li button{
+    background-color:orange;
+    color:white;
+    border-radius:5px;
+    height:30px;
+    width:90px;
+    border-width:0;
+}
+.banner{
+    object-fit:cover;
+    margin-left:-8;
+}
+.infotable{
+    color:white;
+    font-family:Segoe UI;
+    padding-left:80;
+}
+.downloadinfo{
+    background-color:#69CBDF;
+}
+.dinfobutton{
+    border-radius:5px;
+    background-color:#61BBCE;
+    border-width:0;
+    color:white;
+    height:30px;
+    width:100px;
+}
+.findcourse{
+    margin-top:-260;
+    padding-left:60%;
+    font-family:Segoe UI;
+    float:left;
+}
+form label{
+    font-size:25;
+    color:#d0d3d4;
+}
+form select{
+    border-width:1px;
+    border-radius:5px;
+    padding:5px;
+    color:grey;
+    border-color:#d0d3d4;
+}
+.coursesubmit{
+    background-color:#EB6648;
+    border-width:0;
+    border-radius:5px;
+    color:white;
+    height:30px;
+    width:200px;
+}
+.courses{
+    padding-left:300;
+    color:#A4A4A4;
+    font-family:Segoe UI;
+    border:none;
+}
+.teacher{
+    border-radius:20px;
+    width:32;
+    height:32;
+    vertical-align: middle;
+}
+.teachermore{
+    float:right;
+    background:#E16C6C;
+    color:white;
+    border-radius:5px;
+    border-width:0;
+    height:30px;
+    width:100px;
+}
+.formimg{
+    text-align:center;
+    color:white;
+    font-family:'Segoe UI';
+}
+.dancecourse{
+    position: absolute;
+    top:2100;
+    left:20%;
+    font-size:30px;
+}
+.formimg table{
+    color:white;
+    padding-left:20;
+    font-size:30;
+}
+.formfooter{
+    font-family:Segoe UI;
+    color:white;
+    background-color:#495052;
+    margin-left:-9;
+    margin-right:-9;
+    margin-top:-16;
+}
+.formfooter table{
+    font-family:Segoe UI;
+    color:white;
+    height:221px;
+    width:1300px;
+}
+.formfooter table tr td img{
+    float:left;
+}
+.formfooter table tr td{
+    text-align:center;
+}
+.formfooter table tr td p{
+    margin-left:100;
+}
+.formimg form table{
+    padding-left:0;
+    background-color:white;
+    position:absolute;
+    top:2050;
+    left:50%;
+    float:right;
+}
+.formimg form table tr{
+    text-align:center;
+}
+.formimg form table tr td input{
+    border-radius:5px;
+    border-width:1;
+}
+.formimg form table input{
+    background-color:#f8f9fa;
+    height:30px;
+    width:200px;
+}
+.formimg form table textarea{
+    background-color:#f8f9fa;
+    width:525px;
+}
+.formimg form table button{
+    color:white;
+    width:500px;
+    height:50px;
+    border-width:0;
+    border-radius:5px;
+    background-color:#ec774b;
+}
+.specialmeal{
+    border-radius:15px;
+    margin-left:350;
+    font-family:Segoe UI;
+    font-size:20;
+    background-color:#edbf47;
+    color:white;
+    text-align:center;
+}
+.specialmeal button{
+    height:30px;
+    width:100px;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#0000000D;
+    border-width:0;
+    border-radius:5px;
+}
+.specialmeal img{
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.johndoe{
+    border-radius:15px;
+    margin-left:40%;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#EC774B;
+    text-align:center;
+}
+.schoolparty{
+    margin-top:-235;
+    margin-right:20%;
+    border-radius:15px;
+    text-align:center;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#e16c6c;
+}
+.schoolparty button{
+    height:30px;
+    width:100px;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#0000000D;
+    border-width:0;
+    border-radius:5px;
+}
+.schoolparty img{
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.newevent{
+    text-align:center;
+    border-radius:15px;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#c389ce;
+    margin-left:50%;
+    margin-right:20%;
+    margin-top:1%;
+    font-size:25;
+}
+.cooking{
+    background-color:#6fc191;
+    color:white;
+    font-family:Segoe UI;
+    border-radius:15px;
+    margin-left:350;
+    margin-top:-300;
+}
+.cooking img{
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.music{
+    position:absolute;
+    top:3300;
+    font-family:Segoe UI;
+    text-align:center;
+    background-color:#E16C6C;
+    color:white;
+    border-radius:15px;
+    margin-left:39.5%;
+    margin-top:1%;
+}
+.music img{
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.music button{
+    height:30px;
+    width:100px;
+    font-family:Segoe UI;
+    color:white;
+    background-color:#0000000D;
+    border-width:0;
+    border-radius:5px;
+}
