@@ -184,12 +184,11 @@ form select{
     margin-left:30%;
 }
 .formimg form table{
+    position:relative;
+    left:120%;
+    bottom:296;
     padding-left:0;
     background-color:white;
-    position:absolute;
-    top:225%;
-    left:160%;
-    margin-top:-700;
 }
 .formimg form table tr{
     text-align:center;
@@ -291,15 +290,14 @@ form select{
     border-top-right-radius:15px;
 }
 .music{
-    position:absolute;
-    top:359%;
+    position:relative;
+    left:40%;
+    bottom:570;
     font-family:Segoe UI;
     text-align:center;
     background-color:#E16C6C;
     color:white;
     border-radius:15px;
-    margin-left:39.7%;
-    margin-top:1%;
 }
 .music img{
     border-top-left-radius:15px;
