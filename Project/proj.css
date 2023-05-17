@@ -2,9 +2,9 @@
     background-color:#495052;
     vertical-align:top;
     color:white;
-    margin-top:-8;
-    margin-left:-8;
-    margin-right:-8;
+    margin-top:-0.4%;
+    margin-left:-0.4%;
+    margin-right:-0.4%;
     font-family:Segoe UI;
     vertical-align:middle;
 }
@@ -16,53 +16,50 @@
     padding-bottom:5;
 }
 .payment-op{
-    padding-left:450;
-    padding-right:40;
+    padding-left:20%;
+    padding-right:7%;
     float:left;
 }
 
 .ts{
-    padding-right:20;
+    padding-right:2%;
     padding-left:0;
     float:left;
 }
 .us{
-    padding-right:10;
+    padding-right:1%;
     float:left;
 }
 .it{
-    padding-right:10;
+    padding-right:1%;
     float:left;
 }
 .es{
-    padding-right:10;
+    padding-right:1%;
     float:left;
 }
 .infobox{
-    padding-left:200;
+    padding-left:10%;
     float:left;
 }
 .adr{
-    padding-left:30;
-    padding-right:60;
+    padding-left:2%;
+    padding-right:4%;
     float:left;
 }
 .account{
     float:left;
     background-color: #2F3435;
-    margin-top:-10;
-    margin-bottom:-4;
+    margin-top:-8%;
+    margin-bottom:-2.5%;
     vertical-align:top;
 }
-.account li{
-    padding-bottom:2;
-}
 .babykidlogo{
-    margin-left:150;
-    margin-top:50;
+    margin-left:20%;
+    margin-top:2%;
 }
 menu{
-    margin-top:-20;
+    margin-top:-1%;
 }
 menu ul{
     padding:0;
@@ -70,7 +67,7 @@ menu ul{
     color: grey;
 }
 menu ul li{
-    padding-left:50;
+    padding-left:5%;
     display:inline;
 }
 menu ul li button{
@@ -83,12 +80,12 @@ menu ul li button{
 }
 .banner{
     object-fit:cover;
-    margin-left:-8;
+    margin-left:-0.5%;
 }
 .infotable{
     color:white;
     font-family:Segoe UI;
-    padding-left:80;
+    padding-left:7%;
 }
 .downloadinfo{
     background-color:#69CBDF;
@@ -102,13 +99,13 @@ menu ul li button{
     width:100px;
 }
 .findcourse{
-    margin-top:-260;
-    padding-left:60%;
+    margin-top:-12%;
+    padding-left:55%;
     font-family:Segoe UI;
     float:left;
 }
 form label{
-    font-size:25;
+    font-size:40;
     color:#d0d3d4;
 }
 form select{
@@ -127,7 +124,7 @@ form select{
     width:200px;
 }
 .courses{
-    padding-left:300;
+    padding-left:15%;
     color:#A4A4A4;
     font-family:Segoe UI;
     border:none;
@@ -154,22 +151,21 @@ form select{
 }
 .dancecourse{
     position: absolute;
-    top:2100;
+    top:230%;
     left:20%;
     font-size:30px;
 }
 .formimg table{
     color:white;
-    padding-left:20;
     font-size:30;
 }
 .formfooter{
     font-family:Segoe UI;
     color:white;
     background-color:#495052;
-    margin-left:-9;
-    margin-right:-9;
-    margin-top:-16;
+    margin-left:-0.4%;
+    margin-right:-0.4%;
+    margin-top:-0.9%;
 }
 .formfooter table{
     font-family:Segoe UI;
@@ -184,13 +180,13 @@ form select{
     text-align:center;
 }
 .formfooter table tr td p{
-    margin-left:100;
+    margin-left:30%;
 }
 .formimg form table{
     padding-left:0;
     background-color:white;
     position:absolute;
-    top:2050;
+    top:225%;
     left:50%;
     float:right;
 }
@@ -220,7 +216,7 @@ form select{
 }
 .specialmeal{
     border-radius:15px;
-    margin-left:350;
+    margin-left:20%;
     font-family:Segoe UI;
     font-size:20;
     background-color:#edbf47;
@@ -249,7 +245,7 @@ form select{
     text-align:center;
 }
 .schoolparty{
-    margin-top:-235;
+    margin-top:-12.3%;
     margin-right:20%;
     border-radius:15px;
     text-align:center;
@@ -286,8 +282,8 @@ form select{
     color:white;
     font-family:Segoe UI;
     border-radius:15px;
-    margin-left:350;
-    margin-top:-300;
+    margin-left:20%;
+    margin-top:-16%;
 }
 .cooking img{
     border-top-left-radius:15px;
@@ -295,13 +291,13 @@ form select{
 }
 .music{
     position:absolute;
-    top:3300;
+    top:359%;
     font-family:Segoe UI;
     text-align:center;
     background-color:#E16C6C;
     color:white;
     border-radius:15px;
-    margin-left:39.5%;
+    margin-left:39.7%;
     margin-top:1%;
 }
 .music img{
