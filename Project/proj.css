@@ -2,9 +2,9 @@
     background-color:#495052;
     vertical-align:top;
     color:white;
-    margin-top:-0.4%;
-    margin-left:-0.4%;
-    margin-right:-0.4%;
+    margin-top:-0.6%;
+    margin-left:-0.6%;
+    margin-right:-0.6%;
     font-family:Segoe UI;
     vertical-align:middle;
 }
@@ -16,7 +16,7 @@
     padding-bottom:5;
 }
 .payment-op{
-    padding-left:20%;
+    padding-left:10%;
     padding-right:7%;
     float:left;
 }
@@ -99,8 +99,8 @@ menu ul li button{
     width:100px;
 }
 .findcourse{
-    margin-top:-12%;
-    padding-left:55%;
+    margin-top:-250;
+    padding-left:60%;
     font-family:Segoe UI;
     float:left;
 }
@@ -124,7 +124,7 @@ form select{
     width:200px;
 }
 .courses{
-    padding-left:15%;
+    padding-left:5;
     color:#A4A4A4;
     font-family:Segoe UI;
     border:none;
@@ -151,8 +151,8 @@ form select{
 }
 .dancecourse{
     position: absolute;
-    top:230%;
-    left:20%;
+    top:2000;
+    left:10%;
     font-size:30px;
 }
 .formimg table{
@@ -167,6 +167,7 @@ form select{
     margin-right:-0.4%;
     margin-top:-0.9%;
 }
+
 .formfooter table{
     font-family:Segoe UI;
     color:white;
@@ -187,8 +188,8 @@ form select{
     background-color:white;
     position:absolute;
     top:225%;
-    left:50%;
-    float:right;
+    left:160%;
+    margin-top:-700;
 }
 .formimg form table tr{
     text-align:center;
